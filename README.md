@@ -2,9 +2,10 @@
 
 Documentation des ateliers micro fusées réalisés au fablab de Château Thierry. 
 
-## Infos necessaires
+## Infos nécessaires
 
 * Formation nécessaire pour les animateurs 
+
   * Avoir l'[agrément micro fusées délivré par Planètes Sciences](https://www.planete-sciences.org/espace/Activites/Microfusee/L-agrement-microfusee).
 
 * Objectifs des ateliers 
