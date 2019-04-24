@@ -80,3 +80,22 @@ Une classe de 24 élèves découpée en 8 groupes de 3 élèves.
 
 NB : si l’effectif est différent de 24, les conditions seront revues au prorata pour la partie matérielle.
 
+# Notes d'organisation
+
+## Organisation retenue :
+
+**Une classe de 24 élèves découpée en 8 groupes de 3 élèves.**
+
+- Séance 1 (2h) : théorie, le principe du moteur fusée, les éléments constituant une micro-fusée, la sécurité et la réglementation. Conception sur papier en suivant des contraintes données.
+
+- - Option : utilisation d’une feuille de calcul excel pour organiser les données et simuler le vol de la fusée (nécessite un ordinateur par groupe avec Excel ou Libre Office).
+
+- Séance 2 (2h) : construction des 8 fusées différentes.
+
+- Séance 3 (1h30) : organiser la zone de lancement, appliquer les consignes de sécurité, lancer les fusées, faire les observations et les consigner dans son dossier d’étude.
+
+## Commandes à faire
+
+* fusées disponibles (A6-4) : 20
+* Allumeurs dispos : 25+18 : 43
+* à acheter : tubes (25), allumeurs (100), moteurs A6-4 (100)
