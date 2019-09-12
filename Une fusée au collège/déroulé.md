@@ -1,4 +1,4 @@
-# Une fusée au collège
+﻿# Une fusée au collège
 
 Initiation à l’astromodélisme.
 
@@ -98,4 +98,50 @@ NB : si l’effectif est différent de 24, les conditions seront revues au prora
 
 * fusées disponibles (A6-4) : 20
 * Allumeurs dispos : 25+18 : 43
-* à acheter : tubes (25), allumeurs (100), moteurs A6-4 (100)
+* A acheter : tubes (25), allumeurs (100), moteurs A6-4 (100)
+* 
+* 
+
+
+
+## Atelier construction (2h)
+
+### matériel nécessaire pour une classe
+
+* Outils
+  * Scie à métaux
+  * cutters * 15
+  * Protège doigt * 15 ok
+  * Cornière en U alu pour caler la fusée * 3 ok
+  * Pistolets à colle * 5
+  * Multiprises + rallonge
+  * Guide de collage ok
+* Matériaux
+  * Carrés en cartons pour découper des ailerons ok
+  * Fil parachute
+  * Tubes de colle chaude ok
+  * Papier à poncer ok
+  * Pailles
+  * Scotch de masquage ok
+  * Scotch alu
+  * Scotch tout court
+
+### Organisation de l'espace
+
+* Une table collage et fourniture de matériaux (ficelle, colle, cornière)
+  * ficelle
+  * colle
+  * cornière
+  * scie métaux
+  * tubes fusée
+  * scotch
+  * Pistolets à colle
+* Chaque groupe dispose de :
+  * Un cutter
+  * Une équerre de coupe
+  * Un guide pour les ailerons
+  * Un nez
+  * Une feuille avec les étapes
+
+
+
